@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\f.scheibler\\Desktop\\Florent\\ELO_scripting\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\f.scheibler\\Desktop\\Florent\\Microsoft_API_Learning\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\f.scheibler\\Desktop\\Florent\\ELO_scripting\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\f.scheibler\\Desktop\\Florent\\Microsoft_API_Learning\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\f.scheibler\\Desktop\\Florent\\ELO_scripting\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\f.scheibler\\Desktop\\Florent\\Microsoft_API_Learning\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\f.scheibler\\Desktop\\Florent\\ELO_scripting\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\f.scheibler\\Desktop\\Florent\\Microsoft_API_Learning\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\f.scheibler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\f.scheibler\\Desktop\\Florent\\ELO_scripting\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\f.scheibler\\Desktop\\Florent\\Microsoft_API_Learning\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\f.scheibler\\AppData\\Roaming\\NuGet\\NuGet.Config",

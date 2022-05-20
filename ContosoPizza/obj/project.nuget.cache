@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5WnJJwSR0T03LBRrIdaia2LNKrSet3bpM6V9yZcvlKgKK1M2a6Lk/9jDere7O1qTEvmI50DciWGyT2whE8k4ag==",
+  "dgSpecHash": "c01KcYJ0wdfds+OPAV38ODmClCOF+fvDlH2Ie0lRmmvHGPwxHoeSrWMAaVjGZZ+ybKKDll+BxUzq1sBHZxM0fQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\f.scheibler\\Desktop\\Florent\\ELO_scripting\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "C:\\Users\\f.scheibler\\Desktop\\Florent\\Microsoft_API_Learning\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\f.scheibler\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\f.scheibler\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
